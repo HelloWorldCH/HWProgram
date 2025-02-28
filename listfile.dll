@@ -7,7 +7,10 @@
         "server/ops.json"
     ],
     "program": [
-        "module",
-        "test"
+        "Downloads",
+        "Temp/",
+        "Cache/Cache_Data/",
+        "Update/",
+        "media/"
     ]
 }

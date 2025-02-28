@@ -1,5 +1,5 @@
 server/server.jar
 server/start_by_playkite.bat
-server/plugins
-server/mods
+server/plugins/
+server/mods/
 server/ops.json

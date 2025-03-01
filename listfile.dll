@@ -7,7 +7,7 @@
         "server/ops.json"
     ],
     "program": [
-        "Downloads",
+        "Downloads/",
         "Temp/",
         "Cache/Cache_Data/",
         "Update/",
